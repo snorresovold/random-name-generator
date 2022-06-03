@@ -7,7 +7,6 @@ print("1: lage et tilfeldigt navn")
 print("2: legge til fornavn")
 print("3: legge til etternavn")
 
-
 while True:
     x = int(input("Hva vil du? "))
 
